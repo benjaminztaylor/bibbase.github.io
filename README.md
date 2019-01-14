@@ -1,2 +1,2 @@
-# bibbase.github.io
-BibBase Example Page
+# benjaminztaylor.github.io
+BibBase for max page
